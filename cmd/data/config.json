@@ -1,0 +1,14 @@
+{
+    "dex_settings":{
+        "coin" : "solana",
+        "id" : "58dnvljxmj7rhbxsma8blabqwpdn4bxkdcdwpejq6uy8",
+        "boost_type" : "rocket",
+        "max_boost" : true,
+        "max_boost_count" : 1000
+    },
+    "program" : {
+        "threads" : 1000,
+        "proxies" : "proxies.txt",
+        "proxy_type" : "http"
+    }
+}
